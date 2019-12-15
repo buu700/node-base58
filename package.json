@@ -27,7 +27,7 @@
     "test": "mocha"
   },
   "dependencies": {
-    "bignum": ">=0.6.1"
+    "bignum": "https://github.com/fanatid/node-bignum#node12"
   },
   "devDependencies": {
     "mocha": ">1.0.0"
